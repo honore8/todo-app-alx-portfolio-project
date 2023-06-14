@@ -8,8 +8,8 @@ The task data, directories and darkmode are saved in the localStorage.
 Goal
 The project was mainly aimed at putting knowledge of TypeScript, Tailwind, Redux Toolkit and React Js into practice.
 
-Tools used
-JavaScript
-CSS/Bootstrap
-HTML
-Figma (prototyping)
+- Tools used
+- JavaScript
+- CSS/Bootstrap
+- HTML
+- Figma (prototyping)
